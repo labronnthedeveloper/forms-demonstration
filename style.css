@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form button {
+    border: none;
+}
+button:hover{
+    background-color: darkgray;
+}
